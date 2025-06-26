@@ -1,7 +1,7 @@
 <h1 align="center">SortViz – Sorting Algorithm Visualizer</h1>
 
 <p align="center">
-  A single page application to visualize popular sorting algorithms with clean animations and educational UI.<br>
+  A single-page application to visualise popular sorting algorithms with clean animations and educational UI<br>
   Built with <b>Builder.io</b> and exported as a React-compatible frontend project.
 </p>
 
@@ -9,7 +9,7 @@
 
 <h2>🚀 Demo</h2>
 
-<a href="https://your-live-demo-link.com" target="_blank">
+<a href="https://algovizsort.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge">
 </a>
 
@@ -18,11 +18,11 @@
 <details>
   <summary><b>📚 Features</b></summary>
 
-- Real-time visualization of sorting algorithms
-- Smooth animations and color-coded operations
+- Real-time visualisation of sorting algorithms
+- Smooth animations and colour-coded operations
 - SPA architecture for a seamless experience
 - Responsive and mobile-friendly UI
-- Organized layout for code explanation and learning
+- Organised layout for code explanation and learning
 </details>
 
 ---
@@ -35,9 +35,13 @@
 - Insertion Sort  
 - Merge Sort  
 - Quick Sort  
-- Heap Sort  
+- Heap Sort
+- Shell Sort
+- Count Sort
+- Radix Sort
+- Bucket Sort
+- Tim Sort
 
-*Coming soon: Shell Sort, Counting Sort, Radix Sort*
 </details>
 
 ---
