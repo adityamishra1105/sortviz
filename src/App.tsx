@@ -7,12 +7,10 @@ import { useEffect } from "react";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
-
-
 const queryClient = new QueryClient();
 
 const App = () => {
-  // Set document title
+  //set document title
   useEffect(() => {
     document.title = "SortViz - Interactive Sorting Algorithm Visualizer";
   }, []);
@@ -33,5 +31,4 @@ const App = () => {
     </QueryClientProvider>
   );
 };
-
 export default App;
